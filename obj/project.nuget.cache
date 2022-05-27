@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EpnNf0OUQkhd2vHg7+GcseWhClrE4VEbiRARa8Ig3FE3R6KdBeigz/jJw1Rb0cYr0h8uMm8v+SmVqGFIUqffRA==",
+  "success": true,
+  "projectFilePath": "C:\\cursodio\\Arquivos didaticos\\DIO.Series\\DIO.Series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jprgu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
